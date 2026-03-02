@@ -1,3 +1,5 @@
+// ownership of this project belongs to: 6420f0400eb5a52e53f61b6b24bacc87124874070603c3d354c4772ccf3d7305
+
 using System;
 using System.Threading;
 using System.Windows.Forms;
@@ -48,3 +50,4 @@ namespace screenCap
         }
     }
 }
+
